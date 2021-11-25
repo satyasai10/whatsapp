@@ -114,19 +114,19 @@ li img{
   margin-top: 2px;
 }
 .chat-container{
-  border-left: 1px solid #aaa;
-  position: relative;
-}
- /*{
+  /* border-left: 1px solid #aaa;
+  position: relative; */
+
+
   display: flex;
   justify-content: center;
   align-items: center;
   background: #f8f9fa;
   margin-bottom: 1rem;
   border-bottom: 5px solid #09e85e;
- }*/
+ }
 
- .chat-container > *{
+ /* .chat-container > *{
    z-index: 1;
    position: relative;
  }
@@ -191,4 +191,4 @@ li img{
 
 .messages p{
   width: auto;
-}
+} */
